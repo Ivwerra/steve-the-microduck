@@ -1,6 +1,6 @@
 # microduck - connectome prototype
 
-<img src="https://i.ibb.co/KjV7Qs50/ec9d6623-385a-400d-92d2-9183375fa2c9.png" alt="Chucho" width="20" />
+<img src="https://i.ibb.co/KjV7Qs50/ec9d6623-385a-400d-92d2-9183375fa2c9.png" alt="Chucho" width="40" />
 
 A 17-region spiking duck brain with a connectome, trained end-to-end through a differentiable pond until a microduck robot forages, flees raptors, and answers other ducks in their own voice.
 
