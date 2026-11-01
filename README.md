@@ -1,6 +1,6 @@
-# microduck-brain
+# microduck - connectome prototype
 
-A 17-region spiking duck brain with a frozen connectome, trained end-to-end through a differentiable pond until a microduck robot forages, flees raptors, and answers other ducks in their own voice.
+A 17-region spiking duck brain with a connectome, trained end-to-end through a differentiable pond until a microduck robot forages, flees raptors, and answers other ducks in their own voice.
 
 ```
  pond ──► sensors ──► [ PrV  TeO  L2  Hyp ] ──► pallium / striatum / limbic ──► [ RF  Cb  Arco | AI→DM→nXIIts ]
